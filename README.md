@@ -37,10 +37,9 @@ To deploy this project run
 
 - Priority settings.
 - like comment subscribe options.
-- Task progress bar
+- Authentication.
 - profile view and personal post.
 - Search & sort.
-- Bin option.
 - responsive sidebar options.
 
 
